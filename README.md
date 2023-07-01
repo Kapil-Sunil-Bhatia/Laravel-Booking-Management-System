@@ -3,9 +3,9 @@
 
 Hi Guys this is my Internship Project for Web Development Backend Internship from 1stop.ai
 
-### Offer Letter: [Click Here](Offer-Letter- 1stop backend.pdf)
+### Offer Letter: [Click Here](https://github.com/Kapil-Sunil-Bhatia/Laravel-Booking-Management-System/blob/main/Offer-Letter-%201stop%20backend.pdf)
 
-### Report Link : [Click Here](Internship Project report.pdf)
+### Report Link : [Click Here](https://github.com/Kapil-Sunil-Bhatia/Laravel-Booking-Management-System/blob/main/Internship%20Project%20report.pdf)
 
 ### Certificate : [Click Here](Kapil_May_2023_internship_39197.pdf)
 
